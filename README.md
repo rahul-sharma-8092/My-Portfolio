@@ -1,7 +1,7 @@
 # Rahul Kumar Sharma - Resume
 
 ## Tech Stack Used:
-- HTML
+- HTML5
 - CSS
 - JavaScript
 
